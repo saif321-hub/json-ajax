@@ -10,7 +10,7 @@ ourRequet.onload= function(){
         addHtml(ourData)
     }
     else{
-        alert("error :)")
+        alert("error : ooh no)")
     }
     
 }
